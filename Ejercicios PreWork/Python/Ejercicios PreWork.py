@@ -101,6 +101,3 @@ def cadena(text):
     return text[::-1]
 print(cadena("Hola"))
 
-mi_dic = {'Nombre': 'Anibal', 'Edad': 38}
-
-print(mi_dic['Edad'])
